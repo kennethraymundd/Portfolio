@@ -1,0 +1,4 @@
+{"transaction_id": "T1001", "time": "2026-01-05 08:15:00", "quantity": 2, "price": 3.5, "payment_method": "card", "store_id": 1, "item": "Latte"}
+{"transaction_id": "T1002", "time": "2026-01-05 08:30:00", "quantity": 2, "price": 0.0, "payment_method": "cash", "store_id": 1, "item": "Espresso"}
+{"transaction_id": "T1001", "time": "2026-01-05 08:15:00", "quantity": 2, "price": 3.5, "payment_method": "card", "store_id": 1, "item": "Latte"}
+{"transaction_id": "T1003", "time": "2026-01-05 08:45:00", "quantity": 1, "price": 0.0, "payment_method": "card", "store_id": 2, "item": "Cappuccino"}
