@@ -11,4 +11,4 @@ Transforms raw transactional JSON data from a coffee shop into **analytics-ready
 
 **Skills Demonstrated:** Python scripting, ETL pipeline, data cleaning, NDJSON/BigQuery integration, data validation  
 
-**Goal:** Show end-to-end data engineering workflow for portfolio purposes  
+**Goal:** Shows end-to-end data engineering workflow using synthetic data for portfolio demonstration purposes. 
