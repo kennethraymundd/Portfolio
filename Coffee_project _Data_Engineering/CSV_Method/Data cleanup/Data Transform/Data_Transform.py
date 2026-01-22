@@ -5,9 +5,9 @@ import json
 # ======================
 # CONFIG
 # ======================
-INPUT_FILE = r'C:\Users\kenne\Documents\Business Stuffs\Github\Coffee_project _Data_Engineering\Raw data\raw_coffee_data.csv'
-OUTPUT_FILE = r"C:\Users\kenne\Documents\Business Stuffs\Github\Coffee_project _Data_Engineering\Clean data\clean_coffee_sales.csv"
-SCHEMA_FILE = r"C:\Users\kenne\Documents\Business Stuffs\Github\Coffee_project _Data_Engineering\Clean data\bq_schema_optional.json"
+INPUT_FILE = r'C:\Users\kenne\Documents\Business Stuffs\Github\Coffee_project _Data_Engineering\CSV_Method\Data cleanup\Raw data\raw_coffee_data.csv'
+OUTPUT_FILE = r"C:\Users\kenne\Documents\Business Stuffs\Github\Coffee_project _Data_Engineering\CSV_Method\Data cleanup\Clean data\clean_coffee_sales.csv"
+SCHEMA_FILE = r"C:\Users\kenne\Documents\Business Stuffs\Github\Coffee_project _Data_Engineering\CSV_Method\Data cleanup\Clean data\bq_schema_optional.json"
 
 # ======================
 # READ RAW DATA
